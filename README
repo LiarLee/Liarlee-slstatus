@@ -1,3 +1,14 @@
+# Information
+
+Fork from suckless team and modify for myself Linux System.
+
+Just setting show CPU | DwnSpd | UpdSpd | Datetime in DWM.
+
+
+---
+
+The origin readme as follow: 
+
 slstatus - suckless status
 ==========================
 slstatus is a suckless status monitor for window managers that use WM_NAME
@@ -63,7 +74,3 @@ slstatus can be customized by creating a custom config.h and (re)compiling the
 source code. This keeps it fast, secure and simple.
 
 
-Upcoming
---------
-A first feature-complete release with official packages for common distributions
-will come soon.
